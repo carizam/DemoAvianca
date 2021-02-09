@@ -17,3 +17,7 @@ Tools:
 
 - Selnium WebDriver.
 - Test cases execution ON "TestNg".
+
+Notes:
+
+This project is not finished yet.
